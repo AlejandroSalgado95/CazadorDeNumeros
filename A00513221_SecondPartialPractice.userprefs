@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\CameraMovement.js">
+    <Files>
+      <File FileName="Assets\Scripts\GameController.js" Line="11" Column="32" />
+      <File FileName="..\Orientacion Sexual\Assets\Scripts\SpermController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\EnemyMover.js" Line="6" Column="37" />
+      <File FileName="Assets\Scripts\PlayerMove.js" Line="3" Column="1" />
+      <File FileName="Assets\Scripts\DamagePlayer.js" Line="2" Column="1" />
+      <File FileName="Assets\Scripts\BulletMover.js" Line="13" Column="50" />
+      <File FileName="Assets\Scripts\CameraMovement.js" Line="2" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

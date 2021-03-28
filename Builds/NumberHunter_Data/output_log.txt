@@ -1,0 +1,48 @@
+Initialize engine version: 5.1.1f1 (2046fc06d4d8)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics 3000 (ID=0x116)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Alejandro ASG\Documents\Unity Projects v.5\A00513221_SecondPartialPractice\Builds\NumberHunter_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Alejandro ASG\Documents\Unity Projects v.5\A00513221_SecondPartialPractice\Builds\NumberHunter_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Alejandro ASG\Documents\Unity Projects v.5\A00513221_SecondPartialPractice\Builds\NumberHunter_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Alejandro ASG\Documents\Unity Projects v.5\A00513221_SecondPartialPractice\Builds\NumberHunter_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Alejandro ASG\Documents\Unity Projects v.5\A00513221_SecondPartialPractice\Builds\NumberHunter_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Alejandro ASG\Documents\Unity Projects v.5\A00513221_SecondPartialPractice\Builds\NumberHunter_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Alejandro ASG\Documents\Unity Projects v.5\A00513221_SecondPartialPractice\Builds\NumberHunter_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Alejandro ASG\Documents\Unity Projects v.5\A00513221_SecondPartialPractice\Builds\NumberHunter_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Alejandro ASG\Documents\Unity Projects v.5\A00513221_SecondPartialPractice\Builds\NumberHunter_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Alejandro ASG\Documents\Unity Projects v.5\A00513221_SecondPartialPractice\Builds\NumberHunter_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Alejandro ASG\Documents\Unity Projects v.5\A00513221_SecondPartialPractice\Builds\NumberHunter_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Alejandro ASG\Documents\Unity Projects v.5\A00513221_SecondPartialPractice\Builds\NumberHunter_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Alejandro ASG\Documents\Unity Projects v.5\A00513221_SecondPartialPractice\Builds\NumberHunter_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Alejandro ASG\Documents\Unity Projects v.5\A00513221_SecondPartialPractice\Builds\NumberHunter_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.377 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Alejandro ASG\Documents\Unity Projects v.5\A00513221_SecondPartialPractice\Builds\NumberHunter_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Alejandro ASG\Documents\Unity Projects v.5\A00513221_SecondPartialPractice\Builds\NumberHunter_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 6c18 -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.504374 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 712.
+Total: 1.670802 ms (FindLiveObjects: 0.091525 ms CreateObjectMapping: 0.106001 ms MarkObjects: 0.926926 ms  DeleteObjects: 0.544948 ms)
+
+Platform assembly: C:\Users\Alejandro ASG\Documents\Unity Projects v.5\A00513221_SecondPartialPractice\Builds\NumberHunter_Data\Managed\Boo.Lang.dll (this message is harmless)
+Can not play a disabled audio source
+ 
+(Filename:  Line: 394)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.659407 ms
+
+Unloading 313 unused Assets to reduce memory usage. Loaded Objects now: 335.
+Total: 4.749505 ms (FindLiveObjects: 0.089190 ms CreateObjectMapping: 0.103199 ms MarkObjects: 0.837269 ms  DeleteObjects: 3.717979 ms)
+
